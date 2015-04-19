@@ -3668,7 +3668,23 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "MusicaLliure.cat",
+      "thumb": "musicalliure/thumb.png",
+      "desc": "The aim of Musicalliure.cat is to promote, spread, support and make diffusion of free musical creations published in the Països Catalans (Catalan Countries)",
+      "url": "http://www.musicalliure.cat/en",
+      "info": "http://www.musicalliure.cat/bloc/",
+      "submitter": "narnau",
+      "submissionDate": "2012-04-19",
+      "tags": [
+        "Production",
+        "jQuery",
+        "Mobile",
+        "Responsive",
+        "RESTful",
+        "Music"
+      ]
     }
-
   ]
 }
